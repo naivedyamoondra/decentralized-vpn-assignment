@@ -79,7 +79,7 @@ contract HelloVPN {
 * When you update a state variable, that change is written to the blockchain and becomes part of the network’s permanent history  
 * In my code, the variables greeting, nodeCount and deployer are the state variables.
 
-## **Where are state variables stored?:**
+**Where are state variables stored?:**
 
 * State variables are stored in a special area of the blockchain called the contract storage (or persistent storage).  
 * Each smart contract has its own storage space, linked to its own blockchain address.  
